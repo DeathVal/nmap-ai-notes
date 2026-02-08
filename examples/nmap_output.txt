@@ -1,0 +1,3 @@
+Nmap scan report for 127.0.0.1
+22/tcp open ssh OpenSSH
+80/tcp open http Apache
